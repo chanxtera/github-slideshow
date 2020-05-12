@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-You have gone too far!
+_get out now_
 Use the left arrow to go back!
